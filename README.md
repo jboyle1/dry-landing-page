@@ -1,6 +1,6 @@
 ### https://jboyle1.github.io/www.dontrestrictyourself.com/
 
-## Name of Project: Jackie Summerfield Ceramics (website)
+## Name of Project: Dont restrict yourself (app landing page)
 
 This application was my final major project at university. It was exhibited at the New Designers awards with the business 
 design center in Islington. A great experience and good practise in self promotion. The DRY app gives alcoholics hope of 
